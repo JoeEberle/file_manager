@@ -4,7 +4,7 @@
 
 ## Description
 
-File Manager - Easily copy, delete, or transfer files
+File Manager - Easily copy, archive, delete, or transfer files
 
 ![Developer Logo](developer.png)
 
