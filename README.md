@@ -38,4 +38,4 @@ To get started with the **File Manager** solution repository, follow these steps
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](file_manager.png)  <br>![additional_image](file_removal.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](web_automation.png)  <br>
+    ## Deliverables or Figures![additional_image](file_manager.png)  <br>![additional_image](file_removal.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](web_automation.png)  <br>
