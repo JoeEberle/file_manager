@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # File Manager - Solution for File Manager
 Solution for File Manager
 
@@ -9,8 +11,6 @@ Welcome to the solution **File Manager** - an example for your projects
 Solution for File Manager
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
