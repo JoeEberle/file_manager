@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# File Manager - 3. **Visualization of Findings**: The storyboard provides a framework to visually represent key findings through charts, graphs, and other visual aids, making it easier to understand complex data.
-3. **Visualization of Findings**: The storyboard provides a framework to visually represent key findings through charts, graphs, and other visual aids, making it easier to understand complex data.
+# File Manager - Solution for File Manager
+Solution for File Manager
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **File Manager** - an example for your projects
 
-3. **Visualization of Findings**: The storyboard provides a framework to visually represent key findings through charts, graphs, and other visual aids, making it easier to understand complex data.
+Solution for File Manager
 
 ![Image image_filename](sample.png)
 
