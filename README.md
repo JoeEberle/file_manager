@@ -39,11 +39,8 @@ To get started with the **File Manager** solution repository, follow these steps
  ![additional_image](file_manager.png)  <br>![additional_image](file_removal.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](web_automation.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
